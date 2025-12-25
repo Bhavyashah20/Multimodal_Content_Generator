@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multimodal Content Generator
 
 A web application built with Streamlit, LangChain, OpenAI, and ElevenLabs that generates a short story, a matching image, and an audio narration based on a user's creative prompt.
@@ -72,3 +73,6 @@ MIT License
 ---
 Built with ❤️ using AI technologies
 
+=======
+# Multimodal_Content_Generator
+>>>>>>> 7bec9fa41513cc776c76a90b52d056bd439887b9
